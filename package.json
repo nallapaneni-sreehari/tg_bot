@@ -18,6 +18,10 @@
   },
   "homepage": "https://github.com/nallapaneni-sreehari/tg_bot#readme",
   "dependencies": {
-    "node-telegram-bot-api": "^0.61.0"
+    "axios": "^1.4.0",
+    "ffmpeg-static": "^5.1.0",
+    "fs": "0.0.1-security",
+    "node-telegram-bot-api": "^0.61.0",
+    "ytdl-core": "^4.11.5"
   }
 }
